@@ -60,11 +60,13 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Rails backend] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Rails backend]** is a project where Itried using rails for backend to create API to be consumed with react in the frontend...
+
+[Link to react frontend](https://github.com/kennyegun24/react-frontend/tree/greet)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -82,7 +84,7 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://expressjs.com/">Rails</a></li>
   </ul>
 </details>
 
